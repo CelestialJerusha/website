@@ -1,0 +1,34 @@
+.nav-header {
+    height: 15vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #5896bf;
+}
+.nav-title {
+    margin-left: 120px;
+    font-size: 40px;
+}
+.nav-header {
+    height: 14vh;
+    width: 100vw;
+    position: fixed;
+}
+.nav-menu {
+    display: flex;
+    margin-right: 100px;
+}
+li {
+    list-style: none;
+    margin: 10px;
+}
+.nav-link {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    font-weight: 500;
+}
+.nav-link:hover {
+    color: #fff;
+} 

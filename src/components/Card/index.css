@@ -1,0 +1,28 @@
+.sub_container {
+    height: 350px;
+    width: 320px;
+    margin: 10px;
+}
+.image_element {
+    height: 200px;
+    width: 320px;
+    margin-left: 0px;
+}
+.card_title {
+    margin-top: 0px;
+}
+.text_content {
+    margin-top: -10px; 
+}
+.services_btn {
+    height: 30px;
+    width: 130px;
+    background: transparent;
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: #3498db; 
+}
+.services_btn:hover {
+    background: #3498db;
+    color: #fff;
+}

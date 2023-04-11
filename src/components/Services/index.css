@@ -1,0 +1,15 @@
+.services_cont{
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+}
+.services_title {
+    text-align: center;
+    margin-bottom: 0px;
+}
+.card_details {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px; 
+}
